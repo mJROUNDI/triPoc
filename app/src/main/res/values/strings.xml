@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">soccer_poc</string>
+    <string name="departure_name_hint">Deaprture</string>
+    <string name="serach_description">TODO</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="player_photo_desctiption">player photo desc</string>
+    <string name="logo_team_desctiption">logo_team_desctiption</string>
+    <string name="arrival_name_hint">Arrival</string>
+</resources>
